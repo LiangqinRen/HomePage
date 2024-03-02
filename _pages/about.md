@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are network security, privacy and machine learning.
+I'm currently a third-year Ph.D. student in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are security and privacy issues in machine learning.
 
-# 📝 Publications 
+# 📝 Publications
+
+- Liangqin Ren, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In the 24th Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF], [GitHub](https://github.com/LiangqinRen/PrivDNN)
 
 # 🧑‍🏫 Teaching
 
