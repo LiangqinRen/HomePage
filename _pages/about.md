@@ -21,12 +21,12 @@ I'm currently a third-year Ph.D. student in the [Department of Electrical Engine
 
 # 📝 Publications
 
-- Liangqin Ren, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In the 24th Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF], [GitHub](https://github.com/LiangqinRen/PrivDNN)
+- Liangqin Ren, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In the 24th Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF](../files/privdnn.pdf), [GitHub](https://github.com/LiangqinRen/PrivDNN)
 
 # 🧑‍🏫 Teaching
 
 - *Fall 2022*: TA for [EECS 448 Software Engineering I](https://people.eecs.ku.edu/~saiedian/Teaching/448/), taught by Prof. [Hossein Saiedian](https://people.eecs.ku.edu/~saiedian/)
-- *Spring, Fall 2023*: TA for [EECS 348 Software Engineering I](https://people.eecs.ku.edu/~saiedian/Teaching/448/), taught by Prof. [Hossein Saiedian](https://people.eecs.ku.edu/~saiedian/)
+- *Spring, 2023 - Spring, 2024*: TA for [EECS 348 Software Engineering I](https://people.eecs.ku.edu/~saiedian/Teaching/448/), taught by Prof. [Hossein Saiedian](https://people.eecs.ku.edu/~saiedian/)
 
 # 📖 Educations
 - *2021.08 - Now*, Ph.D. in Computer and Information Sciences, University of Kansas
