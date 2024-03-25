@@ -35,5 +35,3 @@ I'm currently a third-year Ph.D. student in the [Department of Electrical Engine
 
 # 💻 Internships
 - *2020.01 - 2020.06*, Baidu, China.
-
-# 😎 [Algorithm](https://algorithm.liangqin.ren/)

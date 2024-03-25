@@ -16,4 +16,7 @@ main:
     url: "/#-internships"
 
   - title: "Algorithm"
-    url: "/#-algorithm"
+    url: "https://algorithm.liangqin.ren/"
+  
+  - title: "CV"
+    url: "../files/CV.pdf"
