@@ -1,20 +1,5 @@
-# main links links
+# main links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Teaching"
-    url: "/#-teaching"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Internships"
-    url: "/#-internships"
-
   - title: "Algorithm"
     url: "https://algorithm.liangqin.ren/"
   
