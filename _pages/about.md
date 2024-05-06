@@ -35,8 +35,9 @@ I'm currently a third-year Ph.D. student in the [Department of Electrical Engine
 
 # Services
 
-- External paper reviewer for International Conference on Distributed Computing Systems (ICDCS) 2024
-- External paper reviewer for International Conference on Dependable Systems and Networks (DSN) 2024
+- External paper reviewer for International Conference on Knowledge Science, Engineering and Management (KSEM 2024)
 
 # Internships
-- *2021.01 - 2021.06*, Baidu, China.
+
+- *2021.01 - 2021.06*, Baidu, Beijing. Software development engineering intern.
+  - Developed Baidu translation software development kits (SDK) for mobile devices.
