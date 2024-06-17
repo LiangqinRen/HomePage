@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a third-year Ph.D. student in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are security and privacy issues in machine learning.
+I'm currently a third-year Ph.D. candidate in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are security and privacy issues in machine learning.
 
 # Educations
 - *2021.08 - Now*, Ph.D. in Computer and Information Sciences, University of Kansas
@@ -27,6 +27,7 @@ I'm currently a third-year Ph.D. student in the [Department of Electrical Engine
 # Publications
 
 - **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In the 24th Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF](../files/privdnn.pdf), [GitHub](https://github.com/LiangqinRen/PrivDNN)
+- Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In European Symposium on Research in Computer Security (ESORICS), 2024.
 
 # Teaching
 
@@ -39,5 +40,7 @@ I'm currently a third-year Ph.D. student in the [Department of Electrical Engine
 
 # Internships
 
-- *2021.01 - 2021.06*, Baidu, Beijing. Software development engineering intern.
+- *2021.01 - 2021.06*, Baidu, Beijing. Software Development Engineering Intern.
   - Developed Baidu translation software development kits (SDK) for mobile devices.
+- *2024.06 - 2024.09*, Amazon, Seattle. Applied Scientist Intern.
+  
