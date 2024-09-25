@@ -41,6 +41,7 @@ I'm currently a third-year Ph.D. candidate in the [Department of Electrical Engi
 # Internships
 
 - *2024.06 - 2024.09*, Amazon, Seattle. Applied Scientist Intern.
+  - Extract user emotions from video reviews, and apply the extracted emotions to improve the long-tail recommendation.
 - *2021.01 - 2021.06*, Baidu, Beijing. Software Development Engineering Intern.
   - Developed Baidu translation software development kits (SDK) for mobile devices.
   
