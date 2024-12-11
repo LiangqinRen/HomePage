@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a third-year Ph.D. candidate in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are security and privacy issues in machine learning.
+I'm currently a senior Ph.D. candidate in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are security and privacy issues in machine learning.
 
 # Educations
 - *2021.08 - Now*, Ph.D. in Computer and Information Sciences, University of Kansas
