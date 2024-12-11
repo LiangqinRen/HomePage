@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liangqin Ren"
+title                    : "Liangqin Ren 任良钦"
 description              : ""
-repository               : "LiangqinRen/HomePage"
+repository               : "LiangqinRen"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=az4IyFcAAAAJ&hl=en
-  email            : "liangqinren@ku.com"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
