@@ -17,31 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a senior Ph.D. candidate in the [Department of Electrical Engineering and Computer Science](https://eecs.ku.edu/) at the [University of Kansas](https://ku.edu/). I am fortunate to be advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My main research interests are security and privacy issues in machine learning.
+I am a Ph.D. candidate in Electrical Engineering and Computer Science (EECS) at the University of Kansas, advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My research interests focus on security and privacy of machine learning systems, including model protection, Deepfake defenses, and copyright protection.
 
-# Educations
-- *2021.08 - Now*, Ph.D. in Computer and Information Sciences, University of Kansas
-- *2017.08 - 2020.06*, M.Eng. in Computer Technology, University of Chinese Academy of Sciences
-- *2013.08 - 2017.06*, B.Eng. in Network Engineering, Shandong University of Science and Technology
+## Education
 
-# Publications
+- Ph.D. in Computer Science, University of Kansas (*Aug 2021 – Present*)
+- M.Eng. in Computer Technology, University of Chinese Academy of Sciences (*Aug 2017 – Jun 2020*)
+- B.Eng. in Network Engineering, Shandong University of Science and Technology (*Aug 2013 – Jun 2017*)
 
-- Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In European Symposium on Research in Computer Security (ESORICS), 2024.
-- **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In the 24th Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF](../files/privdnn.pdf), [GitHub](https://github.com/LiangqinRen/PrivDNN)
+## Publications
 
-# Teaching
+- Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In Proceedings of the European Symposium on Research in Computer Security (ESORICS), 2024.
+- **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of the 24th Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF](../files/privdnn.pdf), [GitHub](https://github.com/LiangqinRen/PrivDNN)
 
-- *Spring, 2023 - Spring, 2024*: TA for [EECS 348 Software Engineering I](https://people.eecs.ku.edu/~saiedian/Teaching/448/), taught by Prof. [Hossein Saiedian](https://people.eecs.ku.edu/~saiedian/)
-- *Fall 2022*: TA for [EECS 448 Software Engineering I](https://people.eecs.ku.edu/~saiedian/Teaching/448/), taught by Prof. [Hossein Saiedian](https://people.eecs.ku.edu/~saiedian/)
+## Teaching
 
-# Services
+- Teaching Assistant, EECS 348 Software Engineering I, University of Kansas (Fall 2024 – Spring 2025, Instructor: Prof. [David Johnson](https://eecs.ku.edu/people/david-johnson))
 
-- External paper reviewer for International Conference on Knowledge Science, Engineering and Management (KSEM 2024)
+- Teaching Assistant, EECS 348 Software Engineering I, University of Kansas (Fall 2022 – Spring 2024, Instructor: Prof. [Hossein Saiedian](https://people.eecs.ku.edu/~saiedian/))
 
-# Internships
+## Services
 
-- *2024.06 - 2024.09*, Amazon, Seattle. Applied Scientist Intern.
-  - Extract user emotions from video reviews, and apply the extracted emotions to improve the long-tail recommendation.
-- *2021.01 - 2021.06*, Baidu, Beijing. Software Development Engineering Intern.
-  - Developed Baidu translation software development kits (SDK) for mobile devices.
-  
+- External reviewer for the International Conference on Knowledge Science, Engineering and Management (KSEM 2024)
+
+## Internships
+
+- Applied Scientist Intern, Amazon, Seattle, WA (May 2025 – Aug 2025)
+  - Leveraged LLMs to infer user context patterns and enhanced retrieval candidate ranking by incorporating contextual information.
+- Applied Scientist Intern, Amazon, Seattle, WA (Jun 2024 – Sep 2024)
+  - Extracted user emotions from video reviews using NLP and LLM techniques and applied them to enhance long-tail recommendation performance.
+- Software Development Engineer Intern, Baidu, Beijing (Jan 2021 – Jun 2021)
+  - Developed Baidu translation SDKs for mobile devices, enabling integration of machine translation into Android and iOS applications.
