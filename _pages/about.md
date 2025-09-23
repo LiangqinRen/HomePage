@@ -27,8 +27,8 @@ I am a Ph.D. candidate in Electrical Engineering and Computer Science (EECS) at 
 
 ## Publications
 
-- Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In Proceedings of the European Symposium on Research in Computer Security (ESORICS), Bydgoszcz, Poland, 2024.
-- **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [PDF](../files/privdnn.pdf), [GitHub](https://github.com/LiangqinRen/PrivDNN)
+- Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In Proceedings of the European Symposium on Research in Computer Security (ESORICS), Bydgoszcz, Poland, 2024. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_16), [PDF](https://www.ittc.ku.edu/~bluo/pubs/li2024esorics.pdf), [Codes](https://github.com/AdvAIArtProject/AdvAIArt)]
+- **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [[Link](https://petsymposium.org/popets/2024/popets-2024-0089.php), [PDF](../files/2024_pets_privdnn), [Codes](https://github.com/LiangqinRen/PrivDNN)]
 
 ## Teaching
 
