@@ -38,7 +38,8 @@ I am a Ph.D. candidate in Electrical Engineering and Computer Science (EECS) at 
 
 ## Services
 
-- External reviewer for the International Conference on Knowledge Science, Engineering and Management (KSEM 2024)
+- Reviewer for TDSC 2025, ISCAS 2025, KSEM 2024, ISCAS 2024.
+- Session Moderator for SecureComm 2022.
 
 ## Internships
 
