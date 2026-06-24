@@ -27,21 +27,12 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
 
 ## Publications
 
-1. **Liangqin Ren**, Zeyan Liu, Ye Wang, Yuxin Chen, Fengjun Li, and Bo Luo. PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing. In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), The Hague, Netherlands, 2026. [To Appear]
+1. **Liangqin Ren**, Zeyan Liu, Ye Wang, Yuxin Chen, Fengjun Li, and Bo Luo. PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing. In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), The Hague, Netherlands, 2026. [[Codes](https://github.com/LiangqinRen/PhantomSeal)]
 2. Xu, Xin, Zhen Yang, Quanwei Cai, Jingqiang Lin, **Liangqin Ren**, Bo Chen, and Yongfeng Huang. Enforcing cryptographic distributed-VCS access control with no trust on servers.     Journal of Information Security and Applications (JISA), 93 (2025): 104103. [[Link](https://www.sciencedirect.com/science/article/pii/S2214212625001401?casa_token=7JbDuOf9Te0AAAAA:WCWEiL-TMOwWhbyHbJNeo2mylPzWpaJ596riWufhBd42bBhzhyAM8F3R3p1mIusyRiewyimyTHo)]
 3. Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In Proceedings of the European Symposium on Research in Computer Security (ESORICS), Bydgoszcz, Poland, 2024. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_16)]
 4. **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [[Link](https://petsymposium.org/popets/2024/popets-2024-0089.php), [PDF](../files/2024_pets_privdnn.pdf), [Codes](https://github.com/LiangqinRen/PrivDNN)]
 
-## Teaching
-
-- Teaching Assistant, EECS 348/448 Software Engineering, University of Kansas (Fall 2022 – Spring 2026)
-
-## Services
-
-- Reviewer for TDSC (2025-2026) and ISCAS 2025.
-- Session Moderator for SecureComm 2022.
-
-## Internships
+## Employments
 
 - Applied Scientist Intern, Amazon, Seattle, WA (May 2025 – Aug 2025)
   - Leveraged LLMs to infer user context patterns and enhanced retrieval candidate ranking by incorporating contextual information.
@@ -49,3 +40,13 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
   - Extracted user emotions from video reviews using NLP and LLM techniques and applied them to enhance long-tail recommendation performance.
 - Software Development Engineer Intern, Baidu, Beijing (Jan 2021 – Jun 2021)
   - Developed Baidu translation SDKs for mobile devices, enabling integration of machine translation into Android and iOS applications.
+
+## Services
+
+- Reviewer for TDSC (2025-2026) and ISCAS 2025.
+- Session Moderator for SecureComm 2022.
+
+## Teaching
+
+- Teaching Assistant, EECS 556 Introduction to Information and Computer Security, University of Kansas (Fall 2026)
+- Teaching Assistant, EECS 348/448 Software Engineering, University of Kansas (Fall 2022 – Spring 2026)
