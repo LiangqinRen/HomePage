@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
 
 I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science (EECS) at the University of Kansas, advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My research focuses on the security and privacy of machine learning systems, including model protection, Deepfake defenses, and copyright protection. I am also interested in recommender systems, large language models, and large-scale machine learning applications.
 
@@ -30,7 +28,7 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
 1. **Liangqin Ren**, Zeyan Liu, Ye Wang, Yuxin Chen, Fengjun Li, and Bo Luo. PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing. In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), The Hague, Netherlands, 2026. [[PDF](https://arxiv.org/pdf/2607.20564), [Code](https://github.com/LiangqinRen/PhantomSeal)]
 2. Xu, Xin, Zhen Yang, Quanwei Cai, Jingqiang Lin, **Liangqin Ren**, Bo Chen, and Yongfeng Huang. Enforcing cryptographic distributed-VCS access control with no trust on servers. Journal of Information Security and Applications (JISA), 93 (2025): 104103. [[Elsevier](https://www.sciencedirect.com/science/article/pii/S2214212625001401)]
 3. Yuying Li, Zeyan Liu, Junyi Zhao, **Liangqin Ren**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In Proceedings of the European Symposium on Research in Computer Security (ESORICS), Bydgoszcz, Poland, 2024. [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_16)]
-4. **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [[PoPETs](https://petsymposium.org/popets/2024/popets-2024-0089.php), [PDF](../files/2024_pets_privdnn.pdf), [Code](https://github.com/LiangqinRen/PrivDNN)]
+4. **Liangqin Ren**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [[PoPETs](https://petsymposium.org/popets/2024/popets-2024-0089.php), [PDF](https://arxiv.org/pdf/2607.21895), [Code](https://github.com/LiangqinRen/PrivDNN)]
 
 ## Employments
 
