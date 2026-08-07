@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science (EECS) at the University of Kansas, advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). My research focuses on the security and privacy of machine learning systems, including model protection, Deepfake defenses, and copyright protection. I am also interested in recommender systems, large language models, and large-scale machine learning applications.
+I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science (EECS) at the University of Kansas, advised by Prof. [Fengjun Li](https://ittc.ku.edu/~fli/) and Prof. [Bo Luo](https://www.ittc.ku.edu/~bluo/). I expect to graduate in December 2026 and am actively seeking full-time opportunities beginning in 2027. My research focuses on the security and privacy of machine learning systems, including model protection, deepfake defense, and image copyright protection. I am also broadly interested in machine learning systems and applications, particularly recommender systems and large language models.
 
 ## Education
 
