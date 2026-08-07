@@ -19,9 +19,11 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
 
 ## Education
 
-- Ph.D. in Computer Science, University of Kansas (*Aug 2021 – Dec 2026 (Expected)*)
-- M.Eng. in Computer Technology, University of Chinese Academy of Sciences (*Sep 2017 – Jul 2020*)
-- B.Eng. in Network Engineering, Shandong University of Science and Technology (*Sep 2013 – Jun 2017*)
+Ph.D. in Computer Science, University of Kansas (*Aug 2021 – Dec 2026 (Expected)*)
+
+M.Eng. in Computer Technology, University of Chinese Academy of Sciences (*Sep 2017 – Jul 2020*)
+
+B.Eng. in Network Engineering, Shandong University of Science and Technology (*Sep 2013 – Jun 2017*)
 
 ## Publications
 
