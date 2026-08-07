@@ -20,8 +20,8 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
 ## Education
 
 - Ph.D. in Computer Science, University of Kansas (*Aug 2021 – Dec 2026 (Expected)*)
-- M.Eng. in Computer Technology, University of Chinese Academy of Sciences (*Aug 2017 – Jun 2020*)
-- B.Eng. in Network Engineering, Shandong University of Science and Technology (*Aug 2013 – Jun 2017*)
+- M.Eng. in Computer Technology, University of Chinese Academy of Sciences (*Sep 2017 – Jul 2020*)
+- B.Eng. in Network Engineering, Shandong University of Science and Technology (*Sep 2013 – Jun 2017*)
 
 ## Publications
 
@@ -36,7 +36,7 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
   - Developed an end-to-end LLM-based session-aware recommendation pipeline that generated short-term viewer profiles and re-ranked retrieved video candidates based on inferred viewer intent.
 - Applied Scientist Intern, Amazon, Seattle, WA (Jun 2024 – Sep 2024)
   - Developed an LLM-based emotion-aware recommendation pipeline that extracted emotion signatures from large-scale user reviews and integrated them into semantic video representations for retrieval and ranking.
-- Software Development Engineer Intern, Baidu, Beijing (Jan 2021 – Jun 2021)
+- Software Development Engineer Intern, Baidu, Beijing (Jan 2021 – May 2021)
   - Developed a cross-compiled SDK for ARM-based translation devices by re-wrapping Baidu Translation's x86 SDK functionality and encapsulating online API calls to Baidu Translation services.
 
 ## Services
