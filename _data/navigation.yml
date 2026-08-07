@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Algorithm"
-    url: "https://algorithm.liangqin.ren/"
-  
   - title: "CV"
     url: "../files/CV.pdf"
+
+  - title: "Algorithm"
+    url: "https://algorithm.liangqin.ren/"
