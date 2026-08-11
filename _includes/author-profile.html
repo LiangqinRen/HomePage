@@ -29,12 +29,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
-        <li>
-          <a href="mailto:{{ author.email }}">
-            <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
-            {{ author.email }}
-          </a>
-        </li>
+        <li><a href="#" class="copy-email" data-email="{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span class="copy-email__label">Email</span></a></li>
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
@@ -129,7 +124,7 @@
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a>
+        <a href="#" class="copy-email" data-email="{{ author.email }}" aria-label="Copy email address" title="Copy email address"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
