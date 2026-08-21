@@ -36,13 +36,13 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
 
 ## Publications {#publications}
 
-1. **PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing**<br>
+1. PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing<br>
    **[CCS 2026](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html)** [[ArXiv](https://arxiv.org/abs/2607.20564), [Code](https://github.com/LiangqinRen/PhantomSeal)] **<u>Liangqin Ren</u>**, Zeyan Liu, Ye Wang, Yuxin Chen, Fengjun Li, and Bo Luo
-2. **Enforcing cryptographic distributed-VCS access control with no trust on servers**<br>
+2. Enforcing cryptographic distributed-VCS access control with no trust on servers<br>
    **[JISA 2025](https://www.sciencedirect.com/science/article/pii/S2214212625001401)** [[ArXiv](https://arxiv.org/abs/2607.29417)] Xin Xu, Zhen Yang, Quanwei Cai, Jingqiang Lin, **<u>Liangqin Ren</u>**, Bo Chen, and Yongfeng Huang
-3. **The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking**<br>
+3. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking<br>
    **[ESORICS 2024](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_16)** [[ArXiv](https://arxiv.org/abs/2404.14581)] Yuying Li, Zeyan Liu, Junyi Zhao, **<u>Liangqin Ren</u>**, Fengjun Li, Jiebo Luo, and Bo Luo
-4. **PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption**<br>
+4. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption<br>
    **[PETS 2024](https://petsymposium.org/popets/2024/popets-2024-0089.php)** [[ArXiv](https://arxiv.org/abs/2607.21895), [Code](https://github.com/LiangqinRen/PrivDNN)] **<u>Liangqin Ren</u>**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo
 
 ## Services {#services}

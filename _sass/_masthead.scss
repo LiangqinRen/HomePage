@@ -91,8 +91,8 @@
 }
 
 .greedy-nav .visible-links .masthead__resource-link {
-  margin-right: 0;
-  margin-left: 0.8rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
   padding: 0.5rem 0;
   color: $masthead-link-color-hover;
   font-weight: 700;
@@ -105,6 +105,10 @@
   &:hover {
     color: $masthead-link-color-hover;
   }
+}
+
+.greedy-nav .visible-links .masthead__menu-item:last-child .masthead__resource-link {
+  margin-right: 0;
 }
 
 .greedy-nav .hidden-links {
