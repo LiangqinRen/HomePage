@@ -27,19 +27,23 @@ I am a final-year Ph.D. candidate in Electrical Engineering and Computer Science
 
 ## Experience {#experience}
 
-- Applied Scientist Intern, Amazon, Seattle, WA (May 2025 – Aug 2025)
+- Applied Scientist Intern, Amazon Prime Video, Seattle, WA (May 2025 – Aug 2025)
   - Developed an end-to-end LLM-based session-aware recommendation pipeline that generated short-term viewer profiles and re-ranked retrieved video candidates based on inferred viewer intent.
-- Applied Scientist Intern, Amazon, Seattle, WA (Jun 2024 – Sep 2024)
+- Applied Scientist Intern, Amazon Prime Video, Seattle, WA (Jun 2024 – Sep 2024)
   - Developed an LLM-based emotion-aware recommendation pipeline that extracted emotion signatures from large-scale user reviews and integrated them into semantic video representations for retrieval and ranking.
 - Software Development Engineer Intern, Baidu, Beijing (Jan 2021 – May 2021)
   - Developed a cross-compiled SDK for ARM-based translation devices by re-wrapping Baidu Translation's x86 SDK functionality and encapsulating online API calls to Baidu Translation services.
 
 ## Publications {#publications}
 
-1. **<u>Liangqin Ren</u>**, Zeyan Liu, Ye Wang, Yuxin Chen, Fengjun Li, and Bo Luo. PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing. In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), The Hague, Netherlands, 2026. [[PDF](https://arxiv.org/pdf/2607.20564), [Code](https://github.com/LiangqinRen/PhantomSeal)]
-2. Xu, Xin, Zhen Yang, Quanwei Cai, Jingqiang Lin, **<u>Liangqin Ren</u>**, Bo Chen, and Yongfeng Huang. Enforcing cryptographic distributed-VCS access control with no trust on servers. Journal of Information Security and Applications (JISA), 93 (2025): 104103. [[Elsevier](https://www.sciencedirect.com/science/article/pii/S2214212625001401), [PDF](https://arxiv.org/pdf/2607.29417)]
-3. Yuying Li, Zeyan Liu, Junyi Zhao, **<u>Liangqin Ren</u>**, Fengjun Li, Jiebo Luo, and Bo Luo. The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking. In Proceedings of the European Symposium on Research in Computer Security (ESORICS), Bydgoszcz, Poland, 2024. [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_16), [PDF](https://arxiv.org/pdf/2404.14581)]
-4. **<u>Liangqin Ren</u>**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo. PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption. In Proceedings of Privacy Enhancing Technologies Symposium (PETS), Bristol, UK, 2024. [[PoPETs](https://petsymposium.org/popets/2024/popets-2024-0089.php), [PDF](https://arxiv.org/pdf/2607.21895), [Code](https://github.com/LiangqinRen/PrivDNN)]
+1. **PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing**<br>
+   **[CCS 2026](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html)** [[ArXiv](https://arxiv.org/abs/2607.20564), [Code](https://github.com/LiangqinRen/PhantomSeal)] **<u>Liangqin Ren</u>**, Zeyan Liu, Ye Wang, Yuxin Chen, Fengjun Li, and Bo Luo
+2. **Enforcing cryptographic distributed-VCS access control with no trust on servers**<br>
+   **[JISA 2025](https://www.sciencedirect.com/science/article/pii/S2214212625001401)** [[ArXiv](https://arxiv.org/abs/2607.29417)] Xin Xu, Zhen Yang, Quanwei Cai, Jingqiang Lin, **<u>Liangqin Ren</u>**, Bo Chen, and Yongfeng Huang
+3. **The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking**<br>
+   **[ESORICS 2024](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_16)** [[ArXiv](https://arxiv.org/abs/2404.14581)] Yuying Li, Zeyan Liu, Junyi Zhao, **<u>Liangqin Ren</u>**, Fengjun Li, Jiebo Luo, and Bo Luo
+4. **PrivDNN: A Secure Multi-Party Computation Framework for Deep Learning using Partial DNN Encryption**<br>
+   **[PETS 2024](https://petsymposium.org/popets/2024/popets-2024-0089.php)** [[ArXiv](https://arxiv.org/abs/2607.21895), [Code](https://github.com/LiangqinRen/PrivDNN)] **<u>Liangqin Ren</u>**, Zeyan Liu, Fengjun Li, Kaitai Liang, Zhu Li, and Bo Luo
 
 ## Services {#services}
 

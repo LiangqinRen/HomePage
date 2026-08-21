@@ -60,8 +60,8 @@
 
 /* Visually separate page sections from standalone resources. */
 .masthead__menu-item--resource-first {
-  padding-left: 0.75rem;
-  border-left: 1px solid $border-color;
+  padding-left: 1rem;
+  border-left: 2px solid mix(#fff, $primary-color, 45%);
 }
 
 .masthead__resource-type {
@@ -85,7 +85,7 @@
   margin-right: 0;
   margin-left: 0.45rem;
   padding: 0.35rem 0.6rem;
-  border: 1px solid $border-color;
+  border: 1px solid mix(#fff, $primary-color, 55%);
   border-radius: $border-radius;
   color: $masthead-link-color-hover;
   font-weight: 700;
@@ -96,8 +96,8 @@
   }
 
   &:hover {
-    border-color: mix(#fff, $primary-color, 45%);
-    background: mix(#fff, $primary-color, 92%);
+    border-color: $primary-color;
+    background: mix(#fff, $primary-color, 88%);
   }
 }
 
