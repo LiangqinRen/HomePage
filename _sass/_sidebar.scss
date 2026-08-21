@@ -101,8 +101,11 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
+      display: block;
       width: 175px;
       height: 175px;
+      margin-right: auto;
+      margin-left: auto;
       padding: 5px;
       border: 1px solid $border-color;
     }
@@ -122,6 +125,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
   }
 }
 
@@ -169,6 +173,9 @@
 
   @include breakpoint($large) {
     display: block;
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
   }
 
   button {
