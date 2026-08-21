@@ -1,7 +1,29 @@
-# main links
-main:
+# Links to sections on the homepage
+sections:
+  - title: "About"
+    url: "#about"
+
+  - title: "Education"
+    url: "#education"
+
+  - title: "Publications"
+    url: "#publications"
+
+  - title: "Experience"
+    url: "#experience"
+
+  - title: "Services"
+    url: "#services"
+
+  - title: "Teaching"
+    url: "#teaching"
+
+# Standalone documents and external sites
+resources:
   - title: "CV"
-    url: "../files/CV.pdf"
+    url: "/files/CV.pdf"
+    kind: "pdf"
 
   - title: "Algorithm"
     url: "https://algorithm.liangqin.ren/"
+    external: true

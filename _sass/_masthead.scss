@@ -44,10 +44,7 @@
 }
 
 .masthead__menu-home-item {
-  @include breakpoint($medium) {
-    display: block !important;
-  }
-  display: none !important;
+  display: block !important;
 }
 
 .masthead__menu-item {
@@ -56,9 +53,86 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 1.25em;
     font-weight: 700;
   }
 }
 
+/* Visually separate page sections from standalone resources. */
+.masthead__menu-item--resource-first {
+  padding-left: 0.75rem;
+  border-left: 1px solid $border-color;
+}
 
+.masthead__resource-type {
+  display: inline-block;
+  margin-left: 0.35rem;
+  padding: 0.05rem 0.3rem;
+  border-radius: 3px;
+  background: mix(#fff, $primary-color, 86%);
+  font-size: 0.65em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1.35;
+}
+
+.masthead__external-icon {
+  margin-left: 0.25rem;
+  font-size: 0.85em;
+}
+
+.greedy-nav .visible-links .masthead__resource-link {
+  margin-right: 0;
+  margin-left: 0.45rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  color: $masthead-link-color-hover;
+  font-weight: 700;
+  line-height: 1.4;
+
+  &:before {
+    display: none;
+  }
+
+  &:hover {
+    border-color: mix(#fff, $primary-color, 45%);
+    background: mix(#fff, $primary-color, 92%);
+  }
+}
+
+.greedy-nav .hidden-links {
+  > li:first-child:before,
+  > .masthead__menu-item--resource-first:not(:first-child):before {
+    display: block;
+    padding: 8px 20px 4px;
+    color: mix(#fff, $gray, 20%);
+    font-size: $type-size-7;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  > li:first-child:before {
+    content: attr(data-group-label);
+  }
+
+  > .masthead__menu-item--resource-first:not(:first-child):before {
+    content: "Resources";
+    border-top: 1px solid $border-color;
+  }
+
+  .masthead__menu-item--resource-first {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .masthead__resource-link {
+    margin: 4px 8px;
+    padding: 8px 12px;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: mix(#fff, $primary-color, 95%);
+    font-weight: 700;
+  }
+}

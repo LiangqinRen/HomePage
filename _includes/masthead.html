@@ -4,9 +4,26 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="{{ '/' | relative_url }}" target="_self" aria-label="Liangqin Ren homepage">Liangqin Ren</a>
+          </li>
+          {% for link in site.data.navigation.sections %}
+            <li class="masthead__menu-item masthead__menu-item--section" data-group-label="On this page">
+              <a href="{{ link.url }}" target="_self">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+          {% for link in site.data.navigation.resources %}
+            <li class="masthead__menu-item masthead__menu-item--resource{% if forloop.first %} masthead__menu-item--resource-first{% endif %}" data-group-label="Resources">
+              <a class="masthead__resource-link" href="{% if link.external %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}" target="_blank" rel="noopener noreferrer">
+                <span>{{ link.title }}</span>
+                {% if link.kind == "pdf" %}
+                  <span class="masthead__resource-type">PDF</span>
+                {% elsif link.external %}
+                  <span class="masthead__external-icon" aria-hidden="true">&#8599;</span>
+                  <span class="screen-reader-text"> (external site)</span>
+                {% endif %}
+              </a>
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
